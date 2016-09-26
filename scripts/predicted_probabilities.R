@@ -25,8 +25,10 @@ pnorm(model$coefficients[1]+q.x1*model$coefficients[2]+meanx2*model$coefficients
 
 #alternatively using the predict command----
 
+#create a hypothetical data set with just one row containing hypothetical values for x1 and x2. 
 scenario<-data.frame("x1"=q.x1, "x2"=meanx2, row.names = "prediction")
 
+#use the previous data as "newdata" in the predict command
 predict(model, newdata = scenario, type="response")
 
 #plotting across multiple values
