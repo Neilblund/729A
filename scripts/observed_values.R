@@ -22,3 +22,7 @@ predProb("x1", mean(simdat$x1), my.model)
 
 #get P(Y=1) at max of x1
 predProb("x1", max(simdat$x1), my.model)
+
+
+##get marginal effects
+mean(dnorm(predict(my.model, type = "link")))*coef(my.model)
