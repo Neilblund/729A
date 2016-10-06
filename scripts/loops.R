@@ -28,17 +28,6 @@ for(i in 1:100){
 sum(my.data)
 
 
-#place a function inside a loop.
-
-my.data<-matrix(NA, nrow=100, ncol=1)
-for(i in 1:100){
-  my.data[i]<-rnorm(1)
-}
-sum(my.data)
-
-
-
-
 #function in a loop----
 myFunc<-function(n){
   a<-mean(rnorm(n))
@@ -80,7 +69,7 @@ lapply(rep(5, 5), function(x) rnorm(x))
 sapply(rep(5, 5), function(x) rnorm(x))
 
 
-#replicate function - a wrapper for sapply that offers simpler syntax for doing the above
+#replicate function - a wrapper for sapply that offers simpler syntax for repeating a task N times
 replicate(100, rnorm(1))
 
 
