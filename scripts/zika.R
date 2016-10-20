@@ -1,4 +1,4 @@
-zika<-read.csv("~zika.csv", stringsAsFactors = FALSE)
+zika<-read.csv("https://raw.githubusercontent.com/Neilblund/729A/master/data/zika.csv", stringsAsFactors = FALSE)
 
 library(quanteda)
 library(glmnet)
@@ -33,4 +33,4 @@ objModel <- train(x=trainX,
 
 pred.objModel <- predict(objModel, testX)
 confusionMatrix(pred.objModel, testY)
-prop.table(table(pred.svm, testY),2)
+prop.table(table(pred.objModel, testY),2)
