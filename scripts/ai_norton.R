@@ -44,7 +44,7 @@ model <- glm(y ~ f * s, family = "binomial", data = dataset)
       m4<-pnorm(coefs%*%t(data3))
       
     }
-    
+    #difference in differences - marginal effect of s for men (m1-m2) minus the marginal effect of s for women (m3-m4) 
     sim<-(m1-m2)-(m3-m4)
     
     #standard errors
@@ -67,7 +67,7 @@ model <- glm(y ~ f * s, family = "binomial", data = dataset)
 
 result<-simul.interaction(model, bvar="f", cvar="s", ivar="f.s")
 
-colSums(result)
+colMeans(result)
 
 
 #plot interaction effect----
