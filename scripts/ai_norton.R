@@ -1,4 +1,4 @@
-#Ai and Norton method for interaction effects with binary by continuous interaction-----
+#Ai and Norton method for interaction effects with binary by continuous interaction will update with options for continuous by continuous-----
 
 dataset <-
   read.dta("http://www.ats.ucla.edu/stat/data/logitcatcon.dta")
