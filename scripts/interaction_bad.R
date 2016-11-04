@@ -1,4 +1,5 @@
-#adapted from: http://www.ats.ucla.edu/stat/stata/faq/logitcatcon.htm - note, this is NOT the method suggested by Ai and Norton 
+#adapted from: http://www.ats.ucla.edu/stat/stata/faq/logitcatcon.htm - note, this is NOT the method suggested by Ai and Norton, but it is a 
+#common approach and it's consistent with the interpretation for a linear model.
 
 
 
@@ -143,7 +144,7 @@ lines(x = c(dat[3], dat[3]), y = c(-.80,-.70))
 points(x = c(dat[4]), y = c(-.75))
 
 
-  #but this is a little misleading...----
+  #but this is a little misleading...we can get similar changes in the effects of f even without an interaction ----
   
   model <- glm(y ~ f + s, family = "binomial", data = dataset)
   newdata <- data.frame(model.matrix(model, data = dataset))
