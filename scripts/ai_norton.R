@@ -1,4 +1,4 @@
-#Ai and Norton method for interaction effects with binary by continuous interaction will update with options for continuous by continuous-----
+#Ai and Norton method for interaction effects with binary by continuous interaction-----
 
 dataset <-
   read.dta("http://www.ats.ucla.edu/stat/data/logitcatcon.dta")
@@ -15,6 +15,8 @@ model <- glm(y ~ f * s, family = "binomial", data = dataset)
     newdata<-data.frame(model.matrix(model))
     
     vars<-c(cvar, bvar, ivar)
+    
+    
     data1 <- replace(newdata, (vars), list(newdata[,cvar]+1, 0, (newdata[,cvar]+1) * 0))
     data2 <- replace(newdata, (vars), list(newdata[,cvar], 0, newdata[,cvar] * 0))
     data3 <- replace(newdata, (vars), list(newdata[,cvar]+1, 1, (newdata[,cvar]+1) * 1))
@@ -47,13 +49,13 @@ model <- glm(y ~ f * s, family = "binomial", data = dataset)
     #difference in differences - marginal effect of s for men (m1-m2) minus the marginal effect of s for women (m3-m4) 
     sim<-(m1-m2)-(m3-m4)
     
-    #standard errors
+    #the standard errors (for each observation) are the column standard deviations
     sim.se<-apply(sim, 2, sd)
     
-    #average effects
+    #the effects (for each observation) are the column means 
     sim.mean<-apply(sim, 2, mean)
     
-    #zscores
+    #zscores column mean / column standard deviation
     sim.z<-sim.mean/sim.se
     
     
@@ -67,23 +69,28 @@ model <- glm(y ~ f * s, family = "binomial", data = dataset)
 
 result<-simul.interaction(model, bvar="f", cvar="s", ivar="f.s")
 
+#the column means show the average predicted probability, the average interaction effect, the se of the interaction and the z-score 
 colMeans(result)
 
 
 #plot interaction effect----
-
+#plot the interaction effect against y-hat (the predicted probability) 
 plot(result[,1], result[,2], ylab="interaction effect", xlab="Pr Y=1")
 abline(h=0, col='red', lty=2)
 
 
 #plot a z score----
+#plotting the z-score of the interaction effect against y-hat
 plot(result[,1], result[,4], xlim=c(0, 1), ylim=c(-5, 10), ylab="z-score", xlab="Pr Y=1")
 abline(h=0, col="red")
+
+#guidelines at roughly .05 significance levels 
 abline(h=1.96, col="red", lty=2)
 abline(h=-1.96, col='red', lty=2)
 
 
-#add a box plot and some guidelines to the plot (optional)
+#add a box plot to show the five number summary for y-hat. This is helpful in some cases, particularly 
+#if you have a lot of overplotting in the scatter plot
 dat <- summary(result[,1])
 y<-(-5)
 
