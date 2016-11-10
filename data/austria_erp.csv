@@ -1,2147 +1,2064 @@
-"erp","u24","ps","inter"
-0,0,1,0
-NA,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-1,0,0,0
-0,1,0,0
-1,1,1,1
-1,1,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-1,0,0,0
-0,0,0,0
-NA,0,0,0
-1,0,0,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-1,1,1,1
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-NA,1,1,1
-0,0,1,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,1,0
-0,1,0,0
-1,0,0,0
-0,1,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-NA,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-1,0,0,0
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-0,1,0,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-1,1,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-1,0,1,0
-1,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-1,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-NA,1,0,0
-NA,1,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-1,0,0,0
-NA,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-1,1,0,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,1,1,1
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-0,1,1,1
-0,0,1,0
-0,0,1,0
-1,0,1,0
-1,1,1,1
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,1,1,1
-1,0,0,0
-0,0,0,0
-1,1,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,0,0
-1,1,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-1,0,1,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,1,0
-NA,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-NA,1,1,1
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-NA,0,0,0
-1,1,0,0
-1,0,0,0
-1,0,0,0
-0,1,0,0
-1,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,1,0,0
-1,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-NA,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-NA,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-1,1,1,1
-1,0,0,0
-0,0,1,0
-0,0,1,0
-NA,1,1,1
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-NA,0,0,0
-NA,0,0,0
-0,0,0,0
-NA,0,1,0
-0,0,0,0
-0,1,1,1
-0,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-1,1,1,1
-0,0,0,0
-0,0,0,0
-NA,1,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-NA,1,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,1,1,1
-NA,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,1,0,0
-0,0,0,0
-0,1,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-NA,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,0,0
-0,1,0,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,1,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,1,1
-1,1,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,1,0,0
-0,0,1,0
-0,0,1,0
-NA,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-1,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,1,1,1
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-1,1,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,1,0,0
-0,1,0,0
-0,0,0,0
-1,0,1,0
-0,1,0,0
-0,0,0,0
-NA,0,1,0
-0,0,1,0
-1,0,1,0
-NA,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-1,1,0,0
-1,0,1,0
-1,0,1,0
-0,1,1,1
-1,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,1,0,0
-0,1,1,1
-1,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,1,1,1
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,1,1,1
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,1,0,0
-0,0,0,0
-0,0,0,0
-0,1,1,1
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,1,0
-1,0,0,0
-1,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,1,1
-0,1,1,1
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-NA,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,1,0,0
-0,0,0,0
-1,1,0,0
-0,1,1,1
-1,0,0,0
-1,0,1,0
-NA,1,1,1
-1,0,1,0
-1,1,0,0
-1,0,1,0
-0,0,0,0
-1,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,1,1,1
-0,0,1,0
-0,0,1,0
-1,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-1,1,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,1,1
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,1,0,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-NA,0,0,0
-0,0,0,0
-0,1,1,1
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,1,1
-0,0,0,0
-1,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-1,0,0,0
-1,1,0,0
-1,0,0,0
-0,1,0,0
-NA,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,1,1,1
-1,0,0,0
-0,1,1,1
-NA,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-NA,0,1,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,1,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,1,1,1
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-0,1,0,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,1,1,1
-0,1,1,1
-1,0,1,0
-0,0,0,0
-0,1,0,0
-0,1,0,0
-0,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-NA,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-NA,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-NA,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,1,1,1
-NA,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-1,1,1,1
-1,0,1,0
-0,0,0,0
-NA,1,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-NA,1,0,0
-NA,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,1,1,1
-1,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,1,1,1
-0,0,1,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-1,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-NA,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-1,1,0,0
-0,0,0,0
-1,1,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-NA,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-0,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,1,1
-0,0,0,0
-1,0,0,0
-0,1,0,0
-1,1,0,0
-1,1,0,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-NA,0,0,0
-0,0,0,0
-1,1,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,1,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-1,0,0,0
-0,0,0,0
-0,1,0,0
-1,0,1,0
-NA,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,0,0
-0,0,0,0
-1,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,1,1,1
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,1,1
-1,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,1,1
-NA,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,1,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-1,1,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-1,1,1,1
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,1,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-0,0,1,0
-1,0,0,0
-1,1,0,0
-1,1,0,0
-1,0,0,0
-1,1,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-1,0,1,0
-NA,0,1,0
-1,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,1,1,1
-0,1,1,1
-1,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-1,0,0,0
-0,0,0,0
-NA,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-NA,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-NA,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,1,0
-0,1,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-1,1,0,0
-0,0,0,0
-NA,1,1,1
-0,1,0,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-1,1,0,0
-0,0,0,0
-NA,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,1,0,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-NA,0,1,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-1,0,1,0
-0,0,0,0
-NA,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,1,0
-1,1,0,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-NA,1,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-NA,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,1,0
-1,0,0,0
-0,1,0,0
-0,0,0,0
-1,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,1,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,1,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,1,0,0
-1,0,0,0
-0,1,0,0
-0,0,0,0
-0,1,1,1
-0,0,1,0
-1,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-NA,1,1,1
-0,0,0,0
-0,0,0,0
-0,0,0,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-NA,1,1,1
-1,0,0,0
-1,0,0,0
-1,0,1,0
-1,0,1,0
-0,0,0,0
-1,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,1,1,1
-0,0,0,0
-1,0,0,0
-1,0,0,0
-1,0,0,0
-1,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-0,1,1,1
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-1,0,0,0
-1,0,1,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,1,1,1
-0,1,1,1
-0,0,0,0
-0,0,1,0
-0,1,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,1,0,0
-0,0,0,0
-1,0,0,0
-1,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-1,0,0,0
-NA,0,1,0
-0,0,1,0
-0,0,0,0
-0,1,0,0
-0,0,0,0
-NA,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-1,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-1,0,0,0
-1,0,0,0
-0,1,1,1
-1,1,0,0
-0,0,0,0
-NA,1,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,1,1,1
-NA,0,1,0
-0,0,0,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,1,0,0
-0,0,1,0
-1,0,0,0
-0,1,1,1
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-NA,0,0,0
-0,1,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,1,1,1
-0,0,0,0
-0,0,0,0
-NA,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,1,0
-0,0,0,0
-1,1,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-0,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,1,0
-0,1,1,1
-0,1,0,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-NA,0,0,0
-1,0,1,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-1,0,1,0
-1,0,0,0
-0,0,0,0
-0,0,0,0
-1,0,0,0
-0,1,1,1
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
-0,0,0,0
-0,0,1,0
-1,0,1,0
-0,1,0,0
-0,0,0,0
-0,0,1,0
-0,0,0,0
+"votegen","erp","u24","ps","inter"
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"extreme right",1,1,1,1
+"extreme right",1,1,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,1,1,1
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,1,1,1
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"liberals",0,0,1,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,1,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"liberals",0,0,1,0
+"extreme right",1,1,1,1
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"liberals",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,1,1,1
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"liberals",0,1,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"greens/new left",0,1,1,1
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,1,1,1
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"liberals",0,1,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,1,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"liberals",0,1,1,1
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,1,0,0
+"greens/new left",0,0,1,0
+"liberals",0,0,1,0
+"greens/new left",0,1,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"liberals",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,1,1,1
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"liberals",0,1,1,1
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,1,0
+"extreme right",1,1,1,1
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"liberals",0,1,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"greens/new left",0,0,1,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,1,1,1
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"communists/extreme left",0,0,0,0
+"liberals",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"liberals",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,1,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,1,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,1,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,1,1,1
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"liberals",0,0,1,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,1,1,1
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,1,1,1
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,1,1,1
+"socialists/social democrats/labour",0,1,1,1
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,1,1,1
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,1,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,1,1,1
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"greens/new left",0,1,0,0
+"greens/new left",0,1,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,1,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,1,1,1
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,1,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,1,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,1,1,1
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,1,0,0
+"christian democrats",0,1,0,0
+"greens/new left",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,1,0
+"liberals",0,1,1,1
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,1,1,1
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"liberals",0,1,1,1
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"liberals",0,0,1,0
+"communists/extreme left",0,1,1,1
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,1,1,1
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,1,1,1
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"greens/new left",0,0,0,0
+"liberals",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,1,1,1
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,1,1,1
+"greens/new left",0,1,1,1
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,1,1,1
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"greens/new left",0,1,1,1
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"greens/new left",0,1,1,1
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,1,0
+"extreme right",1,1,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"greens/new left",0,1,1,1
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,1,1,1
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"liberals",0,0,1,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,1,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,1,0,0
+"greens/new left",0,0,0,0
+"liberals",0,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,1,1,1
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"communists/extreme left",0,1,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"greens/new left",0,1,0,0
+"liberals",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"liberals",0,0,0,0
+"liberals",0,1,1,1
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,1,1,1
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,1,1
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,1,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,1,1,1
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"greens/new left",0,1,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,1,1,1
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"liberals",0,0,1,0
+"liberals",0,0,1,0
+"greens/new left",0,1,1,1
+"extreme right",1,0,0,0
+"liberals",0,1,1,1
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,1,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,1,1,1
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,1,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,1,1,1
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,1,1,1
+"communists/extreme left",0,1,1,1
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"christian democrats",0,1,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"extreme right",1,1,0,0
+"greens/new left",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,1,1,1
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,1,1,1
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"liberals",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,1,1,1
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"liberals",0,1,1,1
+"greens/new left",0,0,1,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"liberals",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,1,1,1
+"greens/new left",0,1,1,1
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,1,1
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,1,0,0
+"extreme right",1,1,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,1,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"liberals",0,1,1,1
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,1,1,1
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,1,1,1
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,1,1
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"communists/extreme left",0,1,1,1
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,1,0,0
+"greens/new left",0,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,1,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,1,1,1
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,1,0,0
+"extreme right",1,1,0,0
+"extreme right",1,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,0,0
+"greens/new left",0,1,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,1,1,1
+"christian democrats",0,1,1,1
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"communists/extreme left",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,1,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,1,1,1
+"greens/new left",0,0,1,0
+"liberals",0,0,1,0
+"greens/new left",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,1,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,1,1,1
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,1,0,0
+"christian democrats",0,1,1,1
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"liberals",0,0,1,0
+"extreme right",1,1,0,0
+"liberals",0,1,1,1
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,1,1,1
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,1,0,0
+"liberals",0,0,1,0
+"christian democrats",0,1,1,1
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"communists/extreme left",0,1,1,1
+"greens/new left",0,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,1,1,1
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,1,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"greens/new left",0,0,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,1,1,1
+"greens/new left",0,0,1,0
+"extreme right",1,0,1,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"communists/extreme left",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,1,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,1,0,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"christian democrats",0,1,1,1
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"liberals",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"liberals",0,1,1,1
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"liberals",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"greens/new left",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,1,1,1
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,1,0,0
+"greens/new left",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,1,1,1
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,1,1,1
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,1,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"liberals",0,1,1,1
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,1,0,0
+"socialists/social democrats/labour",0,0,1,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,1,1,1
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"liberals",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"extreme right",1,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"extreme right",1,1,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"greens/new left",0,1,1,1
+"liberals",0,0,1,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"socialists/social democrats/labour",0,1,1,1
+"socialists/social democrats/labour",0,1,0,0
+"socialists/social democrats/labour",0,1,1,1
+"christian democrats",0,0,1,0
+"greens/new left",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"extreme right",1,0,0,0
+"extreme right",1,0,1,0
+"extreme right",1,0,0,0
+"greens/new left",0,0,0,0
+"socialists/social democrats/labour",0,0,0,0
+"extreme right",1,0,0,0
+"greens/new left",0,1,1,1
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,0,0
+"christian democrats",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"greens/new left",0,0,1,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,0,0
+"socialists/social democrats/labour",0,0,1,0
+"extreme right",1,0,1,0
+"socialists/social democrats/labour",0,1,0,0
+"socialists/social democrats/labour",0,0,0,0
+"christian democrats",0,0,1,0
+"christian democrats",0,0,0,0
