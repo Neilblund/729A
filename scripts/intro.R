@@ -1,4 +1,11 @@
+#https://raw.githubusercontent.com/Neilblund/729A/master/scripts/intro.R
+
+#most of these examples come from http://www.r-tutor.com/r-introduction
+
+
 #Operations----
+
+
 
 #evaulate expressions by typing them directly in to the console: 
 
@@ -7,9 +14,10 @@
 
 
 #R functions use the syntax "function_name(value)" for instance: the log function will get the natural log of the value in parentheses:
-log(10)
 
-log(2)
+log(10) # log 10
+
+log(2) # log 2
 
 #Variables----
 
@@ -20,29 +28,24 @@ x
 
 x+2
 
-x<-x+2
+x<-x+2 
 
 x
 
 #variables are used to temporarily store data. They can be passed to functions, plotted, reassigned, etc.
 
-#pass x to the log function
 
-log(x)
+
+log(x) #pass x to the log function
 
 
 #Vectors combine multiple values in to a single element----
 
-# the "c" function combines multiple inputs in to a vector. Create a numeric vector by using the c function on these numbers:
+# the "c" function combines multiple inputs in to a vector. 
 
-a<-c(2, 3, 5)
+a<-c(2, 3, 5) 
 
 a
-
-#string vector is a collection of strings - anything inside a quotation mark
-
-c("aa", "bb", "cc", "dd")
-
 
 #you can perform mathematical operations on an entire vector - e.g. multiply a vector by 5
 
@@ -57,6 +60,13 @@ a + c(1, 2, 3)
 
 mean(a)
 
+#all elements in a vector must have the same "type"
+
+c("aa", "bb", "cc", "dd") # string vector
+
+c(TRUE, FALSE, TRUE, FALSE) #logical vector
+
+c(0, 1, 2, 3) #numeric vector
 
 
 
@@ -134,6 +144,11 @@ A[2,2]
 
 #You can also access a whole row or column. e.g : retrieve the whole first row of the matrix
 A[1,]
+
+
+#some functions can be applied to entire matrices. 
+
+t(A) #the t() function returns the transpose of a matrix
 
 
 
@@ -224,7 +239,7 @@ abline(model, col="red", lty=2)
 
 
 
-#Installing packages, reading data, and loading libraries----
+#Installing packages, loading libraries, reading external data----
 
 install.packages(ggplot2) #install the ggplot package
 require(ggplot2)
