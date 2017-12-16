@@ -3,18 +3,12 @@
 #read in simulated data
 simdat<-read.csv("https://raw.githubusercontent.com/Neilblund/729A/master/data/simdata.csv", stringsAsFactors=FALSE)
 
-#estimate probit regression
-my.model<-glm(y~x1+x2,family="binomial"(link="probit"), data=simdat)
-
-
-
 library(mvtnorm)
-coefs <- rmvnorm(300, coef(my.model), vcov(my.model))
 
 simul <- function(model, #the regression model
                   vname, #name of variable you want to change 
                   newvalues, #the new values
-                  confint = .975, #confidence level default two-tailed .5
+                  confint = .975, #confidence level (default = two-tailed .05)
                   seed = 123, #random number seed (for replication)
                   nreps = 1000){  #number of simulations
   require(mvtnorm)
@@ -25,7 +19,7 @@ simul <- function(model, #the regression model
   colnames(pmat)<-c("xvalue","se", "lb", "probability", "ub")
   
   for(i in 1:length(newvalues)){
-    data<-model.matrix(model$formula,replace(model$data, vname,newvalues[i])) # replace with hypothetical value
+    data<-model.matrix(model$formula,replace(model$data, vname,newvalues[i])) # replace with hypothetical value, and create model matrix
     if (model$family$link == "logit") {
       sim <- rowMeans(plogis(coefs %*% t(data))) #get predictions for logit model
     }
@@ -39,23 +33,15 @@ simul <- function(model, #the regression model
     pmat[i,]<-c(newvalues[i],
                 sd(sim), 
                 mean(sim) - sd(sim)*qnorm(confint), #lower bound
-                mean(sim), 
+                mean(sim), #estimate
                 mean(sim) + sd(sim)*qnorm(confint)) #upper bound
   }
-    
-  
-  
-  
-  
-  
-
-  
   return(pmat)
-  
 }
 
 
-
+#estimate probit regression
+my.model<-glm(y~x1+x2,family="binomial"(link="probit"), data=simdat)
 
 
 vals<-seq(min(simdat$x1), max(simdat$x1), by=.1) #values from min of x1 to max of x1
