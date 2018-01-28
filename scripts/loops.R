@@ -28,13 +28,17 @@ for(i in 1:100){
 sum(my.data)
 
 
-#function in a loop----
-myFunc<-function(n){
+#functions----
+
+#functions take some input and return some output. This function generates n random variables and then finds the mean 
+
+myFunc<-function(n){ 
   a<-mean(rnorm(n))
   return(a)
 }
 
-
+#using functions and loops together can make your code a lot less repetitive. 
+#Here, I'm demonstrating the central limit theorem by taking the means of 100 random samples
 my.data<-matrix(NA, nrow=100, ncol=1)
 for(i in 1:100){
   my.data[i]<-myFunc(100)
@@ -42,7 +46,7 @@ for(i in 1:100){
 
 hist(my.data)
 
-#loop in a function
+#You can also place loops inside functions
 
 myFunc<-function(n, repetitions){
   my.data<-matrix(NA, nrow=repetitions, ncol=1)
