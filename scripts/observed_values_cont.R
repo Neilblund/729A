@@ -1,11 +1,24 @@
 #example plotting confidence intervals for a continuous IV using the simulated values approach
 
+library(ggplot2) #for plotting results
+library(mvtnorm) #used for drawing simulated coefficients
+#utility function for replacing factor variables while keeping levels
+replaceFactor<-function(data, varname, value){   
+  if(is.factor(data[[varname]])){
+    value<-factor(value, levels=levels(data[[varname]]))
+    
+  }
+  data<-replace(data, varname, value)
+}
+
+
+
+
 #read in simulated data
 simdat<-read.csv("https://raw.githubusercontent.com/Neilblund/729A/master/data/simdata.csv", stringsAsFactors=FALSE)
 
-library(mvtnorm)
 
-simul <- function(model, #the regression model
+simulPred <- function(model, #the regression model
                   vname, #name of variable you want to change 
                   newvalues, #the new values
                   confint = .975, #confidence level (default = two-tailed .05)
@@ -16,42 +29,33 @@ simul <- function(model, #the regression model
   coefs <- rmvnorm(nreps, coef(model), vcov(model))  #simulate random coefficients
   
   pmat<-data.frame(matrix(ncol=5, nrow=length(newvalues))) 
+  allpreds<-data.frame(matrix(ncol=nreps, nrow=length(newvalues))) 
+  
   colnames(pmat)<-c("xvalue","se", "lb", "probability", "ub")
   
   for(i in 1:length(newvalues)){
-    data<-model.matrix(model$formula,replace(model$data, vname,newvalues[i])) # replace with hypothetical value, and create model matrix
-    if (model$family$link == "logit") {
-      sim <- rowMeans(plogis(coefs %*% t(data))) #get predictions for logit model
-    }
-    if (model$family$link == "probit") {
-      sim <- rowMeans(pnorm(coefs %*% t(data))) #get predictions for probit model
-      
-    }
-
-    
+    data<-model.matrix(model$formula,replaceFactor(model$model, vname,newvalues[i])) # replace with hypothetical value, and create model matrix
+    sim<-rowMeans(model$family$linkinv(coefs %*% t(data))) #use simulated coefficients to get new predictions
     
     pmat[i,]<-c(newvalues[i],
                 sd(sim), 
                 mean(sim) - sd(sim)*qnorm(confint), #lower bound
                 mean(sim), #estimate
                 mean(sim) + sd(sim)*qnorm(confint)) #upper bound
+    allpreds[i,]<-sim
   }
-  return(pmat)
+  return(list("summary"=pmat,
+              "predictions"=allpreds))
 }
-
-
 #estimate probit regression
 my.model<-glm(y~x1+x2,family="binomial"(link="probit"), data=simdat)
 
+newvalues<-seq(min(simdat$x1), max(simdat$x1), by=.1) #values from min of x1 to max of x1
 
-vals<-seq(min(simdat$x1), max(simdat$x1), by=.1) #values from min of x1 to max of x1
-probmat<-simul(my.model, "x1", vals) #get simulated mean and confidence interval
-
-
+probmat<-simulPred(my.model, "x1", newvalues) #get simulated mean and confidence interval
 
 
-
-library(ggplot2)
-plot<-ggplot(data=probmat, aes(x=xvalue, y=probability)) + geom_point() + geom_line() +
-      geom_ribbon(aes(ymin=probmat$lb, ymax=probmat$ub), linetype=2, alpha=0.1)
+plot<-ggplot(data=probmat$summary, aes(x=xvalue, y=probability)) + geom_point() + geom_line() +
+  geom_ribbon(aes(ymin=probmat$summary$lb, ymax=probmat$summary$ub), linetype=2, alpha=0.1)
 plot
+
