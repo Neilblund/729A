@@ -44,8 +44,8 @@ simulFx <- function(model, #the regression model
   
 
 
-  data1<-model.matrix(model$formula, replaceCase(case1, model$model)) #case1 (baseline)
-  data2<-model.matrix(model$formula, replaceCase(case2, model$model)) #case2 (comparison)
+  data1<-model.matrix(eval(model$call$formula), replaceCase(case1, model$model)) #case1 (baseline)
+  data2<-model.matrix(eval(model$call$formula), replaceCase(case2, model$model)) #case2 (comparison)
   
 
   Xb<-rowMeans(model$family$linkinv(coefs %*% t(data2)))-rowMeans(model$family$linkinv(coefs %*% t(data1))) 
