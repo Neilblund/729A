@@ -52,7 +52,7 @@ simulFx <- function(model, #the regression model
   est<-quantile(Xb,  c((1 - ci)/2, .5 ,1-(1 - ci)/2))
   
   if(full==TRUE){
-    ret<-Xb
+    ret<-data.frame("x0" = data1, "x1" = data2, "fx" = Xb)
     attr(ret, "summary")<-est
   }
   else{
@@ -63,7 +63,7 @@ simulFx <- function(model, #the regression model
   return(ret)
 }
 
-my.model<-glm(y~x1+x2,family="binomial"(link="probit"), data=simdat)
+my.model<-glm(y~x1+x2,family="binomial"(link="logit"), data=simdat)
 
 #get estimated effect for an increase from x1 = 0 to x1 =1
 preds<-simulFx(my.model, 
