@@ -33,7 +33,7 @@ simulFx <- function(model, #the regression model
                       seed = 123,#random number seed (for replication)
                       ci = .95, #confidence level (defaults to .95)
                       nreps = 1000,
-                      full = TRUE #return all results or just the summary of results
+                      full = FALSE #return all results or just the summary of results
                     ){  #number of simulations
   require(mvtnorm)
   if(!is.null(seed)){
@@ -44,16 +44,16 @@ simulFx <- function(model, #the regression model
   
 
 
-  data1<-model.matrix(eval(model$call$formula), replaceCase(case1, model$model)) #case1 (baseline)
-  data2<-model.matrix(eval(model$call$formula), replaceCase(case2, model$model)) #case2 (comparison)
+  data0<-model.matrix(eval(model$call$formula), replaceCase(case1, model$model)) #case1 (baseline)
+  data1<-model.matrix(eval(model$call$formula), replaceCase(case2, model$model)) #case2 (comparison)
   
-
-  Xb<-rowMeans(model$family$linkinv(coefs %*% t(data2)))-rowMeans(model$family$linkinv(coefs %*% t(data1))) 
-  est<-quantile(Xb,  c((1 - ci)/2, .5 ,1-(1 - ci)/2))
-  
+  x0<-rowMeans(model$family$linkinv(coefs %*% t(data0))) 
+  x1<-rowMeans(model$family$linkinv(coefs %*% t(data1)))
+  Xb<-x1 - x0
+  est<-data.frame('x0' = mean(x0), "x1" = mean(x1), 'lb' = quantile(Xb,  c((1 - ci)/2), 'est' = quantile(Xb, .5) ,'ub'= quantile(1-(1 - ci)/2))
   if(full==TRUE){
-    ret<-data.frame("x0" = rowMeans(model$family$linkinv(coefs %*% t(data1))) ,
-                    "x1" = rowMeans(model$family$linkinv(coefs %*% t(data2))),
+    ret<-data.frame("x0" =  x0,
+                    "x1" = x1,
                     "fx" = Xb)
     attr(ret, "summary")<-est
   }
