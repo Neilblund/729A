@@ -49,7 +49,7 @@ simulFx <- function(model, #the regression model
   x1<-rowMeans(model$family$linkinv(coefs %*% t(data1)))
   Xb<-x1 - x0
   est<-data.frame('x0' = mean(x0), "x1" = mean(x1), 
-                  'lb' = quantile(Xb,  c((1 - ci)/2)), 
+                  'lb' = quantile(Xb,  (1 - ci)/2), 
                   'est' = quantile(Xb, .5) ,
                   'ub'= quantile(Xb, 1-(1 - ci)/2), row.names=NULL)
                   if(full==TRUE){
